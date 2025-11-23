@@ -1,0 +1,8 @@
+{
+  "websocket_ip": "127.0.0.1",
+  "websocket_port": 8080,
+  "auth_token": "iW7DlE2025!",
+  "udp_tx_port": 9000,
+  "udp_rx_port": 10000,
+  "debug": false
+}

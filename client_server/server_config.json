@@ -1,0 +1,9 @@
+{
+  "auth_token": "iW7DlE2025!",
+  "udp_rx_port": 10000,
+  "websocket_port": 8080,
+  "serial_port": "COM5",
+  "serial_baudrate": 115200,
+  "poll_interval_ms": 100,
+  "debug": false
+}
