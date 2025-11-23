@@ -1,0 +1,4 @@
+There is a work in progress about listening TCI data from Thetis to be able to control the band change via vfo changes in Thetis.
+  
+  Also ,in principle, it would be possible to use the container and client/server with any other amplifier having a COM port.
+  For example Juma 1000.
