@@ -1,8 +1,9 @@
 # Juma100D-remote-control
 How you can remotely control Juma100 and clones via a container in Thetis used with an HL2.
+-----
+A good knlowledge of Thetis containers and MMIO is advised....
+You will need to download, read and fully understand the .doc file before to use.
 
-A good knlowledge of Thetis containers and MMIO is advised.
-You will need to download and read and fully understand the .doc file before to use.
 There are several versions:
 
 V2 is a complete control for use with F-sense for Thetis v2.10.3.12 beta1 MI0BOT.
